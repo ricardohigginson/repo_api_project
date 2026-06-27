@@ -2,6 +2,8 @@
 
 An end-to-end data pipeline that extracts, scrapes, cleans, and analyses Data Analyst job postings across 10 European countries from the Adzuna job search engine, enriched with World Bank macroeconomic indicators. Built as a capstone project for the Ironhack Data Analytics Bootcamp to map the real state of the Data Analyst job market across Europe.
 
+A summary of the findings can be found in the ppt here: https://docs.google.com/presentation/d/1sKGe9iyxqKputSVpMaVgsdR3MR7kh61N/edit?usp=share_link&ouid=101510910436796838770&rtpof=true&sd=true 
+
 ---
 
 ## 📁 Project Structure
